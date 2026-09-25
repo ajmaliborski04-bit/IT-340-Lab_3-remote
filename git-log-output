@@ -1,0 +1,31 @@
+commit a5128d958cd30bd22c4d530e8810e0c2ac630878
+Author: Adam Maliborski <ajm284@njit.edu>
+Date:   Fri Sep 25 16:17:57 2026 -0400
+
+    Revert "Add notes.txt"
+    
+    This reverts commit 9868044d0b87ad6ae7a8f85cd2d1efc902cc5fce.
+
+commit 9868044d0b87ad6ae7a8f85cd2d1efc902cc5fce
+Author: Adam Maliborski <ajm284@njit.edu>
+Date:   Fri Sep 25 16:16:31 2026 -0400
+
+    Add notes.txt
+
+commit ec48a0a49df38142d23ee5f2ff7ad705a466dba3
+Author: Adam Maliborski <ajm284@njit.edu>
+Date:   Fri Sep 25 16:15:18 2026 -0400
+
+    I'm adding a comment to the group file
+
+commit c5f7635122407518f3749681714d0e46841f458e
+Author: Adam Maliborski <ajm284@njit.edu>
+Date:   Fri Sep 25 15:50:05 2026 -0400
+
+    an obvious change to the file
+
+commit b1c90f86f5fb2384f0ea741195b0bbb72406420a
+Author: Adam Maliborski <ajm284@njit.edu>
+Date:   Fri Sep 25 15:45:20 2026 -0400
+
+    hello
